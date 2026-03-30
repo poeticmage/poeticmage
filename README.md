@@ -5,6 +5,8 @@
 #### Mail: mookherjipriyadarshi@gmail.com
 #### Linkedin: www.linkedin.com/in/priyadarshi-codes
 
+## Projects
+#### Refer Eye Glaucoma: This is an end to end ML project for detacting whether a case of Glaucoma is severe enough for refereal to hospital or it can be checked in private clinic. This app takes Fundus Images (a kind of medical image for eyes cross-section) as input and gives a GradCAM heatmap along with predicted category as output. The GRADCAM tells which parts the MaxViT focused most on. There is also a DBSCAN based gating algorithm to flilter out non medical input. See this for the full app  https://funduseyefrontend12.onrender.com/ and the Git Link is this: https://github.com/poeticmage/image (backend) and https://github.com/poeticmage/FundusEyeFrontend (frontend). In the image repository, the full AI algorithms are written in the README file, though they are deployed in Hugging Face Spaces
 <!--
 **poeticmage/poeticmage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
