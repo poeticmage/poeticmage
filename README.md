@@ -1,6 +1,10 @@
 ## Priyadarshi (poetic mage)
 #### I am Priyadarshi, an engineer who works with Machine Learning and other AI Tools. I have had experience in building many AI algorithms, some of them from scratch, in order to solve real world problem. From Linear Regression, Regularization and Logistic to Trees, Ensemble, Neural Network, Transformers; all these algorithms I have used to build complex machines like MaxVit or Zero-Shot pipelines. I am interested in Computer Vision, Natural Language Processing and Automation with Agentic AI
 
+## Contact
+#### Mail: mookherjipriyadarshi@gmail.com
+#### Linkedin: www.linkedin.com/in/priyadarshi-codes
+
 <!--
 **poeticmage/poeticmage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
