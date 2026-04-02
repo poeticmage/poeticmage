@@ -2,8 +2,7 @@
 ### <p align="center"> <img src="https://github.com/poeticmage/poeticmage/blob/main/ezgif.com-effects.gif" width="500" height="200"/></p>
 #### I am Priyadarshi, an engineer who works with Machine Learning and other AI Tools. I have had experience in building many AI algorithms, some of them from scratch, in order to solve real world problem. From Linear Regression, Regularization and Logistic to Trees, Ensemble, Neural Network, Transformers; all these algorithms I have used to build complex machines like MaxVit or Zero-Shot pipelines. I am interested in Computer Vision, Natural Language Processing and Automation with Agentic AI.  
 
-## [Resume](https://github.com/poeticmage/poeticmage/blob/main/Resume.pdf)
-#### Click on [here](https://github.com/poeticmage/poeticmage/blob/main/Resume.pdf) for the Resume.pdf of Priyadarshi
+## [ζ Resume](https://github.com/poeticmage/poeticmage/blob/main/Resume.pdf)
 
 ## Contact
 #### Mail: mookherjipriyadarshi@gmail.com
