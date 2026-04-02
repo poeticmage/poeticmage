@@ -1,12 +1,13 @@
 ## Priyadarshi (poetic mage) 
 ### <p align="center"> <img src="https://github.com/poeticmage/poeticmage/blob/main/ezgif.com-effects.gif" width="500" height="200"/></p>
-#### I am Priyadarshi, an engineer who works with Machine Learning and other AI Tools. I have had experience in building many AI algorithms, some of them from scratch, in order to solve real world problem. From Linear Regression, Regularization and Logistic to Trees, Ensemble, Neural Network, Transformers; all these algorithms I have used to build complex machines like MaxVit or Zero-Shot pipelines. I am interested in Computer Vision, Natural Language Processing and Automation with Agentic AI
+#### I am Priyadarshi, an engineer who works with Machine Learning and other AI Tools. I have had experience in building many AI algorithms, some of them from scratch, in order to solve real world problem. From Linear Regression, Regularization and Logistic to Trees, Ensemble, Neural Network, Transformers; all these algorithms I have used to build complex machines like MaxVit or Zero-Shot pipelines. I am interested in Computer Vision, Natural Language Processing and Automation with Agentic AI.  
+
+## [Resume](https://github.com/poeticmage/poeticmage/blob/main/Resume.pdf)
+#### Click on [here](https://github.com/poeticmage/poeticmage/blob/main/Resume.pdf) for the Resume.pdf of Priyadarshi
 
 ## Contact
 #### Mail: mookherjipriyadarshi@gmail.com
 #### Linkedin: www.linkedin.com/in/priyadarshi-codes
-
-### [Resume](https://github.com/poeticmage/poeticmage/blob/main/Resume.pdf)
 
 ## Projects
 **Refer Eye Glaucoma:** This is an end to end ML project for detecting whether a case of Glaucoma is severe enough for referal to hospital or it can be checked in private clinic. This app takes Fundus Images (a kind of medical image for eyes cross-section) as input and gives a GradCAM heatmap along with predicted category as output. The GRADCAM tells which parts the MaxViT focused most on. There is also a DBSCAN based gating algorithm to flilter out non medical input. See this for the full app  https://funduseyefrontend12.onrender.com/ and the Git Link is this: https://github.com/poeticmage/image (backend) and https://github.com/poeticmage/FundusEyeFrontend (frontend). In the image repository, the full AI algorithms are written in the README file, though they are deployed in Hugging Face Spaces
